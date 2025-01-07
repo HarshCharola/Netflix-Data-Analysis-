@@ -24,7 +24,7 @@ By leveraging data analysis techniques and interactive visualizations, this proj
 
 ## Methodology
 
- ****1.Data Cleaning and Preparation****:
+ ****1.Data Cleaning and Preparation:****
 
  *Column Optimization*
    - Removed unnecessary columns to reduce dataset size and avoid unnecessary loading during analysis.
@@ -38,7 +38,7 @@ By leveraging data analysis techniques and interactive visualizations, this proj
 
 
  
-****2.Dashboard Development:****:
+****2.Dashboard Development:****
 
 ***Created three pages of the PowerBI dashboard using different-different visuals and slicers***
 
